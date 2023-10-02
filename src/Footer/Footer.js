@@ -8,7 +8,7 @@ function Footer() {
     <div className="center">
         {/* <!-- This is Semantic HTML Change --> */}
         <footer>
-            <p>Ramsai-801363716</p>
+            <p>Venkata Lakshman-801363910</p>
           </footer>
     </div>
 </div>

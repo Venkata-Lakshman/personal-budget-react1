@@ -4,7 +4,7 @@ const fs = require('fs');
 const http = require('http'); // Import the http module if you plan to create an HTTP server.
 const app = express();
 const budget = require("./data.json");
-const port = 3000;
+const port = 3100;
 
 app.use(cors());
 app.get('/hello', (req, res) => {
